@@ -85,6 +85,8 @@ manager.spawn(hologram);
 ## 💬 Support
 Found an issue? [Open an issue](https://github.com/HologramLib/HologramLib/issues) or join the [Discord server](https://discord.gg/2UTkYj26B4)  
 
+<br>
+
 <div align="center">
   <sub>Used by 50+ servers | 2.500+ downloads across platforms</sub><br>
   <a href="https://www.spigotmc.org/resources/111746/">SpigotMC</a> •
