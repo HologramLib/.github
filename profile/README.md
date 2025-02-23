@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="650px" src="https://github.com/HologramLib/HologramLib/blob/master/assets/banner.png?raw=true" alt="HologramLib Banner">
+  <a href="https://github.com/HologramLib/HologramLib"><img width="650px" src="https://github.com/HologramLib/HologramLib/blob/master/assets/banner.png?raw=true" alt="HologramLib Banner"></a>
 
 [![Discord](https://img.shields.io/badge/Discord_Server-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/2UTkYj26B4)
 [![Latest Release](https://img.shields.io/github/v/release/HologramLib/HologramLib?color=blue&label=Latest%20Release)](https://github.com/HologramLib/HologramLib/releases)
@@ -84,3 +84,14 @@ manager.spawn(hologram);
 
 ## 💬 Support
 Found an issue? [Open an issue](https://github.com/HologramLib/HologramLib/issues) or join the [Discord server](https://discord.gg/2UTkYj26B4)  
+
+<div align="center">
+  <sub>Used by 50+ servers | 2.500+ downloads across platforms</sub><br>
+  <a href="https://www.spigotmc.org/resources/111746/">SpigotMC</a> •
+  <a href="https://hangar.papermc.io/max1mde/HologramLib">Hangar</a> •
+  <a href="https://modrinth.com/plugin/hologramlib">Modrinth</a> •
+  <a href="https://github.com/max1mde/HologramLib/releases/latest">Latest Release</a> •
+  <a href="https://discord.gg/2UTkYj26B4">Support</a><br>
+  <sub>License: GPL-3.0 | © 2025 <a href="https://github.com/max1mde/">Maxim</a></sub>
+</div>
+
