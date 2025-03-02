@@ -9,10 +9,12 @@
 
 </div>
 
-## ⚡ About HologramLib
+## What is HologramLib?
 
 HologramLib is a modern hologram library for Minecraft servers (1.19.4 → 1.21.4) using display entities.  
-Designed for Paper, Purpur, and Folia servers, it offers:
+It is designed for Paper, Purpur, and Folia.
+
+### What Features Does HologramLib Offer?
 
 - Text, Block & Item Holograms
 - Text animations with MiniMessage & ItemsAdder emoji support
@@ -36,8 +38,8 @@ Designed for Paper, Purpur, and Folia servers, it offers:
 
 <br>
 
-## ⚙️ Addons
-Not a developer but want to use HologramLib or add even more features?  
+## Extend HologramLib via addons?
+Not a developer but want to use HologramLib or add more features? 
 Check out: [HologramLib Addons](https://github.com/HologramLib/Addons)
 
 <br>
@@ -83,12 +85,12 @@ manager.spawn(hologram);
 <br>
 
 ## 💬 Support
-Found an issue? [Open an issue](https://github.com/HologramLib/HologramLib/issues) or join the [Discord server](https://discord.gg/2UTkYj26B4)  
+Found an issue? [Open an issue](https://github.com/HologramLib/HologramLib/issues) or join the [Discord server](https://discord.gg/2UTkYj26B4) to get support.  
 
 <br>
 
 <div align="center">
-  <sub>Used by 50+ servers | 2.500+ downloads across platforms</sub><br>
+  <sub>Used by 50+ servers | 2,500+ downloads across platforms</sub><br>
   <a href="https://www.spigotmc.org/resources/111746/">SpigotMC</a> •
   <a href="https://hangar.papermc.io/maximjsx/HologramLib">Hangar</a> •
   <a href="https://modrinth.com/plugin/hologramlib">Modrinth</a> •
