@@ -80,7 +80,7 @@ manager.spawn(hologram);
 |----------|-------------|
 | [📖 Complete Wiki](https://github.com/HologramLib/HologramLib/wiki) | Setup guides • Detailed examples • Best practices |
 | [💡 Example Plugin](https://github.com/HologramLib/ExamplePlugin) | Production-ready implementations |
-| [🧑💻 Javadocs](https://hologramlib.github.io/HologramLib/) | API Reference |
+| [💻 Javadocs](https://hologramlib.github.io/HologramLib/) | API Reference |
 
 <br>
 
