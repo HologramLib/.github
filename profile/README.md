@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/HologramLib/HologramLib"><img width="650px" src="https://github.com/HologramLib/HologramLib/blob/master/assets/banner.png?raw=true" alt="HologramLib Banner"></a>
+  <a href="https://github.com/HologramLib/HologramLib"><img width="650px" src="https://github.com/user-attachments/assets/3d5feb84-ff80-42d2-9293-9bea07bc954c" alt="HologramLib Banner"></a>
 
 [![Discord](https://img.shields.io/badge/Discord_Server-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/2UTkYj26B4)
 [![Latest Release](https://img.shields.io/github/v/release/HologramLib/HologramLib?color=blue&label=Latest%20Release)](https://github.com/HologramLib/HologramLib/releases)
