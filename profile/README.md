@@ -90,7 +90,7 @@ Found an issue? [Open an issue](https://github.com/HologramLib/HologramLib/issue
 <br>
 
 <div align="center">
-  <sub>Used by 50+ servers | 3,500+ downloads across platforms</sub><br>
+  <sub>Used by 60+ servers | 4,000+ downloads across platforms</sub><br>
   <a href="https://www.spigotmc.org/resources/111746/">SpigotMC</a> •
   <a href="https://hangar.papermc.io/maximjsx/HologramLib">Hangar</a> •
   <a href="https://modrinth.com/plugin/hologramlib">Modrinth</a> •
