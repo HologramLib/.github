@@ -26,7 +26,7 @@ It is designed for Paper, Purpur, and Folia.
 
 <br>
 
-<a href="https://github.com/HologramLib/HologramLib/releases/download/1.7.1/HologramLib-1.7.1.jar">
+<a href="https://github.com/HologramLib/HologramLib/releases/download/1.8.0/HologramLib-1.8.0.jar">
   <img width="100px" src="https://github.com/HologramLib/Addons/blob/main/download.svg" alt="Download"/>
 </a>
 
