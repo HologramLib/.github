@@ -25,9 +25,8 @@ It is designed for Paper, Purpur, and Folia.
 - Entity attachment support
 
 <br>
-
 <a href="https://github.com/HologramLib/HologramLib/releases/download/1.8.0/HologramLib-1.8.0.jar">
-  <img width="100px" src="https://github.com/HologramLib/Addons/blob/main/download.svg" alt="Download"/>
+  <img width="200px" src="https://github.com/HologramLib/Addons/blob/main/download_jar.svg" alt="Download"/>
 </a>
 
 <br>
