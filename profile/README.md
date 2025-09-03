@@ -11,7 +11,7 @@
 
 ## What is HologramLib?
 
-HologramLib is a modern hologram library for Minecraft servers (1.19.4 → 1.21.4) using display entities.  
+HologramLib is a modern hologram library for Minecraft servers (1.19.4 → 1.21.8) using display entities.  
 It is designed for Paper, Purpur, and Folia.
 
 ### What Features Does HologramLib Offer?
@@ -25,7 +25,7 @@ It is designed for Paper, Purpur, and Folia.
 - Entity attachment support
 
 <br>
-<a href="https://github.com/HologramLib/HologramLib/releases/download/1.8.0/HologramLib-1.8.0.jar">
+<a href="https://github.com/HologramLib/HologramLib/releases/download/1.8.0/HologramLib-1.8.1.jar">
   <img width="200px" src="https://github.com/HologramLib/Addons/blob/main/download_jar.svg" alt="Download"/>
 </a>
 
