@@ -89,10 +89,11 @@ Found an issue? [Open an issue](https://github.com/HologramLib/HologramLib/issue
 <br>
 
 <div align="center">
-  <sub>Used by 80+ servers | 6,000+ downloads across platforms</sub><br>
+  <sub>Used by 80+ servers | 7,000+ downloads across platforms</sub><br>
   <a href="https://www.spigotmc.org/resources/111746/">SpigotMC</a> •
   <a href="https://hangar.papermc.io/maximjsx/HologramLib">Hangar</a> •
   <a href="https://modrinth.com/plugin/hologramlib">Modrinth</a> •
+  <a href="https://maximjsx.com/projects/hologramlib">Maxim.jsx</a> •
   <a href="https://github.com/HologramLib/HologramLib/releases/latest">Latest Release</a> •
   <a href="https://discord.gg/2UTkYj26B4">Support</a><br>
   <sub>License: GPL-3.0 | © 2025 <a href="https://github.com/maximjsx/">Maxim</a></sub>
